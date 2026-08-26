@@ -3,6 +3,7 @@
 학생 김성일입니다.
 WEB & AI개발자가 되고싶습니다.
 여러가지 공부하고있어요
+I'm Seongil Kim, a student preparing to become a Web & AI Developer by exploring diverse technologies.
 
 ## 연락 / Contact
 
