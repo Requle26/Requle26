@@ -1,8 +1,8 @@
 ##  👋Hello World!
 
-학생 김성일입니다.
-WEB & AI개발자가 되고싶습니다.
-여러가지 공부하고있어요
+학생 김성일입니다. <br>
+WEB & AI개발자가 되고싶습니다. <br>
+여러가지 공부하고있어요 <br>
 I'm Seongil Kim, a student preparing to become a Web & AI Developer by exploring diverse technologies.
 
 ## 연락 / Contact
