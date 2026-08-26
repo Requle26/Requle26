@@ -1,4 +1,4 @@
-#  👋Hello World!
+#  👋Hello There!
 
 학생 김성일입니다. 
 WEB & AI개발자가 되고싶습니다. 
