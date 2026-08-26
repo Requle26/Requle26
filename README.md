@@ -5,7 +5,8 @@ WEB & AI개발자가 되고싶습니다.
 여러가지 공부하고있어요 <br>
 I'm Seongil Kim, a student preparing to become a Web & AI Developer by exploring diverse technologies. <br>
 <br>
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Requle26&layout=compact&theme=radical)
+![Top Langs]([https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Requle26&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username={Requle26}&layout=compact&theme=light
+))
 
 ### 연락 / Contact
 
