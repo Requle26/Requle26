@@ -3,7 +3,9 @@
 학생 김성일입니다. 
 WEB & AI개발자가 되고싶습니다. 
 여러가지 공부하고있어요 <br>
-I'm Seongil Kim, a student preparing to become a Web & AI Developer by exploring diverse technologies.
+I'm Seongil Kim, a student preparing to become a Web & AI Developer by exploring diverse technologies. <br>
+<br>
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Requle26&layout=compact&theme=radical)
 
 ### 연락 / Contact
 
