@@ -1,2 +1,2 @@
 ##  👋Hello World!
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Requle26&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Requle26&theme=radical)
